@@ -11,7 +11,10 @@
 ## 2. Lesson Programs
 
 ### Overview
-Lesson Programs are collections of lessons which comprise one or more Carpentries workshops and the leadership guiding their development and implementation. The following requirements outline the general expectations associated with Lesson Programs; additional detail can be found in the [Lesson Program Policy](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html).
+Lesson Programs are collections of lessons which comprise one or more Carpentries workshops and the leadership guiding their development and implementation. 
+As of 2021, The Carpentries Lesson Programs include [Data Carpentry](https://datacarpentry.org/), 
+[Library Carpentry](https://librarycarpentry.org/), and [Software Carpentry](https://software-carpentry.org/). 
+The following requirements outline the general expectations associated with Lesson Programs; additional detail can be found in the [Lesson Program Policy](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html).
 
 ### Eligibility for Lesson Program Acceptance
 The Executive Council is responsible for assessing a prospective Lesson Program for acceptance into The Carpentries, which requires a majority vote. The Executive Director in coordination with relevant core team and Executive Council members will be responsible for:  developing and implementing policies related to Lesson Program incubation and assessing the ability of the Core Team and community to meet obligations associated with new Lesson Programs.
